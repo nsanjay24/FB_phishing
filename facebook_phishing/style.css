@@ -1,0 +1,99 @@
+h2{
+    font-family: Helvetica;
+}
+body{
+    background-color: rgb(243, 243, 243);
+}
+
+
+.logo{
+    height: 60px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* .left{
+    border-style: solid;
+    border-color: red;
+} */
+
+.right{
+
+    border-color: rgb(251, 251, 251);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 15px;
+    background-color: white;
+    
+  
+  /* background: #fff; */
+  display: flex;
+  flex-direction: column;
+  padding: 25px;
+
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1),
+    0 8px 16px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    gap: 10px;
+    text-align: center;
+    align-content: center;
+    
+
+}
+
+
+.username{
+
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 300px;
+    border-radius: 6px;
+    border-width: 1px;
+}
+.password{
+
+    font-size:17px;
+    padding: 14px 16px;
+    width: 300px;
+    border-radius: 6px;
+    border-width: 1px;
+}
+
+/* .login_button{
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 300px;
+    
+} */
+
+
+
+  .login_button {
+    border: none;
+    outline: none;
+    font-size: 20px;
+    background: #0866ff;
+    border: none;
+    padding: 15px 0;
+    border-radius: 6px;
+    color: #fff;
+  }
+
+  .new {
+    border: none;
+    outline: none;
+    font-size: 20px;
+    padding: 15px 20px;
+    background: #42b72a;
+    border-radius: 6px;
+    color: #fff;
+    margin-left: 17%;
+    margin-right: 17%;
+  }
+
+
