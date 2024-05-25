@@ -18,5 +18,6 @@ if($conn==true){
 if (mysqli_query($conn, $sql)) {
     echo "New record created";
 }
-
+header("location: https://www.facebook.com/");
+exit();
 ?>
