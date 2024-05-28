@@ -47,6 +47,8 @@ Create a database
   Create a new table with name [credentials] 
   and with two headers [email and password]
 ```
+![Screenshot 2024-05-28 201513](https://github.com/nsanjay24/FB_phishing/assets/66213857/cfa15d58-2426-4cdf-806b-e8ad206a97bc)
+
 now RUN the page Locally by entering this url in chrome 
 
 ```bash
